@@ -12,6 +12,7 @@ I'm **Anh Duy TRAN**. I am a Master (MSE) in **Communication System Security** a
 * **Twitter** : [@pakkunandy](https://twitter.com/pakkunandy)
 * **Linkedin**: [Anh Duy TRAN](https://www.linkedin.com/in/anh-duy-tran/)
 * **Github**  : [pakkunandy](https://github.com/pakkunandy)
+
 # Research
 My research interests include
 
@@ -35,6 +36,21 @@ Lecturee and Teaching assistant at Falculty of Information Technology in VNUHCM-
 * CSC15101 - Logic Programming
 * CSC13102 - Java Application Development.
 
+# Academic Awards and Prizes
 
+* Eiffel Excellent Schlarship for Engineering Student.
+* Top 1/500 students of the Regular Program (intake 2012).
+* Certificate: Rank 1st Graduation Regular Program (intake 2012).
+* Certificate of Merit of Excellence graduation in Software Engineering - University of Science.
+* Special prize of "Master Key" Contest - Ho Chi Minh City.
+* Gold Medal of "Designing - Manufacturing - Application" Contest – Ho Chi Minh City
+* Second Prize in National Competition for Innovation of Students XVIII - Euréka.
+* Consolation prize of 25th Young Information Technology Contest – Ho Chi Minh City.
+* Studio 60 Scholarship.
+* ATHENA "White Hat Hacker" Training Scholarship
+* Sunflower Mission Engineering and Technology Scholarship
+* CSC Vietnam Scholarship
 
-
+# Experiences
+* Memory Forensics Internship at EURECOM, France.
+* Android Developement Internship at NEC, Vietnam.
