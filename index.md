@@ -29,7 +29,7 @@ My research style is interdisciplinary in general. I am leveraging many techniqu
 
 # Teaching
 
-Lecturee and Teaching assistant at Falculty of Information Technology in VNUHCM-University of Science
+Lecturer and Teaching assistant at Falculty of Information Technology in VNUHCM-University of Science
 * CS300 - Software Engineering
 * SC203 - Scientific Research Methodologies
 * CSC14001 - Theory of Automata and Formal Languages
