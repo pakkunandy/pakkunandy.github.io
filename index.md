@@ -8,7 +8,7 @@ I'm **Anh Duy TRAN**. I am a Master (MSE) in **Communication System Security** a
 
 # Contact Information
 * **Email**   : tranad (at) eurecom (dot) fr
-* **Resume**  : [PDF]() (please email me for full version)
+* **Resume**  : [PDF](./assets/pdf/Anh-Duy-Tran-CV.pdf) (please email me for full version)
 * **Twitter** : [@pakkunandy](https://twitter.com/pakkunandy)
 * **Linkedin**: [Anh Duy TRAN](https://www.linkedin.com/in/anh-duy-tran/)
 * **Github**  : [pakkunandy](https://github.com/pakkunandy)
