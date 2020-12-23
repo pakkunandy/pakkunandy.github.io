@@ -5,6 +5,7 @@ layout: default
 ## Recent News
 * **December 2020**, I was the co-coach of the Computer Security team who won the Second Prize of the Cyber Sea Game 2020 (https://tinyurl.com/ydg6uy8e)
 * **November 2020**,  I was the co-coach of the Computer Security team who was the Champion of the ASEAN Student Contest on Information Security 2020 (https://tinyurl.com/yc3lq4ou)
+* **November 2020**, I got the Computer Hacking Forensic Investigator-CHFI certificate by EC-Council
 * **February 2020**, I gave a Web-Mobile Security Training for Viettel Digital - Ha Noi
 * **November 2019**, I gave a talk at Vietnam Information Security Day 2019 in GEM Center. The topic is "Cybersecurity in the Age of Industry 4.0: How to survive new threats"
 * **October 2019**, I joined Falculty of Information Technology in HCMUS-VNU as Lecturer and Reseacher. I started researching for Ph.D. in Memory Forensics (remotely with Prof. Davide Balzarotti).
