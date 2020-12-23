@@ -63,5 +63,6 @@ I am a founder and manager of the [Computer Security Club - HCMUS](https://www.f
 * CSC Vietnam Scholarship
 
 # Experiences
+* Security Consultant, part time job at KiteMetric, Vietnam.
 * Memory Forensics Internship at EURECOM, France.
 * Android Developement Internship at NEC, Vietnam.
