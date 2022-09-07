@@ -71,3 +71,7 @@ I am a founder and manager of the [Computer Security Club - HCMUS](https://www.f
 * Security Consultant, part time job at KiteMetric, Vietnam.
 * Memory Forensics Internship at EURECOM, France.
 * Android Developement Internship at NEC, Vietnam.
+
+# Publications
+
+<script src="https://bibbase.org/show?bib=https://dblp.org/pid/306/0533.bib&jsonp=1"></script>
