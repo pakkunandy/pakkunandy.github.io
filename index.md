@@ -16,7 +16,7 @@ I am currently involved in memory forensics research with Prof. [Davide Balzarot
 -->
 
 # Contact Information
-* **Email**   : tranad (at) eurecom (dot) fr
+* **Email**   : anh-duy.tran (at) kuleuven (dot) be
 * **Resume**  : [PDF](./assets/pdf/Anh-Duy-Tran-CV.pdf) (please email me for full version)
 * **Twitter** : [@pakkunandy](https://twitter.com/pakkunandy)
 * **Linkedin**: [Anh Duy TRAN](https://www.linkedin.com/in/anh-duy-tran/)
@@ -26,17 +26,18 @@ I am currently involved in memory forensics research with Prof. [Davide Balzarot
 My research interests include
 
 * Secure Software Development
-* Computer Forensics: OS forensics and Memory Forensics.
-* Imaging Security and Forensics.
+* Computer and Multimedia Forensics.
 * Mobile System Security and Privacy.
 * Software Security.
 * Social Engineering.
-* Penetration Testing.
-* IoT and Hardware Security.
+<!-- * Penetration Testing.
+* IoT and Hardware Security. -->
 
 My research style is interdisciplinary in general. I am leveraging many techniques and knowledge from many domains to tackle real-world security-related problems and design secured system. I am currently involved in Multimemdia Verification projects with [Prof. Dang-Nguyen Duc-Tien](https://dnductien.github.io/). 
 
 # Teaching
+Teaching assistant at imec-DistriNet, KU Leuven
+* Software Architecture
 
 Lecturer and Teaching assistant at Falculty of Information Technology in VNUHCM-University of Science
 * Computer and Software Security
@@ -50,8 +51,6 @@ Lecturer and Teaching assistant at Falculty of Information Technology in VNUHCM-
 * Software Architecture
 * Scientific Research Methodologies
 * Technical Writing
-* Theory of Automata and Formal Languages
-* Logic Programming
 * Java Application Development
 * Introduction to AI
 
@@ -72,6 +71,7 @@ I am a founder and manager of the [Computer Security Club - HCMUS](https://www.f
 * CSC Vietnam Scholarship
 
 # Experiences
+* Security Consultant, part time job at the InspireLab, Vietnam.
 * Security Consultant, part time job at KiteMetric, Vietnam.
 * Memory Forensics Internship at EURECOM, France.
 * Android Developement Internship at NEC, Vietnam.
