@@ -9,8 +9,8 @@ layout: default
 
 I am a Ph.D. student in the research group [**DistriNet**](https://distrinet.cs.kuleuven.be/) at the Computer Science department of the **Katholieke Universiteit Leuven (KU Leuven)**, under the supervision of [**Prof. Wouter Joosen**](https://distrinet.cs.kuleuven.be/people/WouterJoosen).
 My research focuses include various subjects in Computer and System Security, mostly in Software Security, Computer and Multimedia Forensics, Malware Analysis, Mobile Security, Privacy.
-I obtained a Diplôme d'ingénieur (Master of Science in Engineering) **Communication System Security** at [**EURECOM**](https://www.eurecom.fr/en) and [**Télécom Paris**](https://www.telecom-paris.fr/en/home) in France. My Master's thesis is about the Memory Forensics, under the supervision of [**Prof. Davide Balzarotti**](http://s3.eurecom.fr/~balzarot/).
-I am the founder of [**Computer Security Club**](https://www.facebook.com/hcmus.compsec.club) at University of Science, VNU-HCM. I sometime play CTF with codename **pakkunandy** and I also host HCMUS-CTF every year.
+I obtained a Diplôme d'ingénieur (Master of Science in Engineering) **Communication System Security** at [**EURECOM**](https://www.eurecom.fr/en) and [**Télécom Paris**](https://www.telecom-paris.fr/en/home) in France. My Master's thesis is about Memory Forensics, under the supervision of [**Prof. Davide Balzarotti**](http://s3.eurecom.fr/~balzarot/).
+I am the founder of [**Computer Security Club**](https://www.facebook.com/hcmus.compsec.club) at University of Science, VNU-HCM. I sometimes play CTF with the codename **pakkunandy**, and I also host HCMUS-CTF every year.
 
 <!---
 I am currently involved in memory forensics research with Prof. [Davide Balzarotti](http://s3.eurecom.fr/~balzarot/). Besides, I am a lecturer and a researcher in Computer Security in [VNU-HCMUS](https://en.hcmus.edu.vn/). In my free time, I play CTF with [NOPS](http://www.s3.eurecom.fr/nops/index.html) team, EURECOM. 
@@ -32,13 +32,13 @@ My research interests include
 * Software Security.
 * Social Engineering.
 
-My research style is interdisciplinary in general. I am leveraging many techniques and knowledge from many domains to tackle real-world security-related problems and design secured system. I am currently involved in Multimemdia Verification projects with [Prof. Dang-Nguyen Duc-Tien](https://dnductien.github.io/). 
+My research style is interdisciplinary in general. I am leveraging many techniques and knowledge from many domains to tackle real-world security-related problems and design secure systems. I am currently involved in [Multimedia Verification](https://github.com/fotoverifier/fotoverifier) projects with [Prof. Dang-Nguyen Duc-Tien](https://dnductien.github.io/). 
 
 # Teaching
 Teaching assistant at imec-DistriNet, KU Leuven
 * Software Architecture
 
-Lecturer and Teaching assistant at Falculty of Information Technology in VNUHCM-University of Science
+Lecturer and Teaching Assistant at the Faculty of Information Technology in VNUHCM-University of Science
 * Computer and Software Security
 * Cryptography and application
 * Mobile Development
@@ -55,8 +55,9 @@ Lecturer and Teaching assistant at Falculty of Information Technology in VNUHCM-
 
 I am a founder and manager of the [Computer Security Club - HCMUS](https://www.facebook.com/hcmus.compsec.club)
 # Academic Awards and Prizes, Certification
+* The Oustanding Young Lecturer, VNUHCM-University of Science.
 * Computer Hacking Forensic Investigator-CHFI certificate by EC-Council 
-* Eiffel Excellent Schlarship for Engineering Student.
+* Eiffel Excellent Scholarship for Engineering Students.
 * Top 1/500 students of the Regular Program (intake 2012).
 * Certificate: Rank 1st Graduation Regular Program (intake 2012).
 * Certificate of Merit of Excellence graduation in Software Engineering - University of Science.
@@ -70,10 +71,10 @@ I am a founder and manager of the [Computer Security Club - HCMUS](https://www.f
 * CSC Vietnam Scholarship
 
 # Experiences
-* Security Consultant, part time job at the InspireLab, Vietnam.
-* Security Consultant, part time job at KiteMetric, Vietnam.
+* Security Consultant, part-time job at the InspireLab, Vietnam.
+* Security Consultant, part-time job at KiteMetric, Vietnam.
 * Memory Forensics Internship at EURECOM, France.
-* Android Developement Internship at NEC, Vietnam.
+* Android Development Internship at NEC, Vietnam.
 
 # Publications
 
