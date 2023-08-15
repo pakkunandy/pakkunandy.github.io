@@ -3,6 +3,9 @@ layout: default
 ---
 
 ## Recent News
+* **July 2023**, I got the fellowship and attended the Summer Research Institute 2023 on Security and Privacy ([SURI](https://suri.epfl.ch/)) at EPFL.
+* **June 2023**, I attended and completed the Secure Application Development Training ([SecAppDev](https://secappdev.org/)).
+* **December 2022**, I joined DistriNet (KU Leuven) as a PhD student in secure software development.
 * **December 2020**, I was the co-coach of the Computer Security team who won the Second Prize of the Cyber Sea Game 2020 (https://tinyurl.com/ydg6uy8e)
 * **November 2020**,  I was the co-coach of the Computer Security team who was the Champion of the ASEAN Student Contest on Information Security 2020 (https://tinyurl.com/yc3lq4ou)
 * **November 2020**, I got the Computer Hacking Forensic Investigator-CHFI certificate by EC-Council
