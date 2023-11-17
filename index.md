@@ -34,6 +34,12 @@ My research interests include
 
 My research style is interdisciplinary in general. I am leveraging many techniques and knowledge from many domains to tackle real-world security-related problems and design secure systems. I am currently involved in [Multimedia Verification](https://github.com/fotoverifier/fotoverifier) projects with [Prof. Dang-Nguyen Duc-Tien](https://dnductien.github.io/). 
 
+# Professional Activities
+* I am a member of the Workshop Program Chair of [SCID](https://www.scid.tech/) @ Asia CCS 2024.
+* I am a PC member of ICMR 2024, SoICT 2024.
+* I am a web chair of MMM 2022.
+* I am a reviewer at MMM 2022, MAPR 2023.
+
 # Teaching
 Teaching assistant at imec-DistriNet, KU Leuven
 * Software Architecture
