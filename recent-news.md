@@ -3,7 +3,8 @@ layout: default
 ---
 
 ## Recent News
-* **Oct 2023**, I am honored to have received the ([Best Paper Award](https://qrs23.techconf.org/track/award)) for QRS 2023. 
+* **Oct 2023**, I am honored to have received the ([Best Paper Award](https://qrs23.techconf.org/track/award)) for QRS 2023.
+* **July 2023**, I will be a workshop co-chair of [SCID](https://www.scid.tech/) at AsiaCCS 2024. 
 * **July 2023**, I got the fellowship and attended the Summer Research Institute 2023 on Security and Privacy ([SURI](https://suri.epfl.ch/)) at EPFL.
 * **June 2023**, I attended and completed the Secure Application Development Training ([SecAppDev](https://secappdev.org/)).
 * **December 2022**, I joined DistriNet (KU Leuven) as a PhD student in secure software development.
