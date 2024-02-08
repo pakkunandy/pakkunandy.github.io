@@ -7,7 +7,7 @@ layout: default
 
 <!-- I'm **Anh Duy TRAN (MSE, CHFI)**. I am a Master (MSE) in **Communication System Security** at [**EURECOM**](https://www.eurecom.fr/en) and [**Télécom Paris**](https://www.telecom-paris.fr/en/home) in France. My research focuses include many subjects in Computer and System Security, mostly in **Computer Forensics**, **Mobile System Security, Privacy** and **Software Security**. I work to help organizations to inspect digital evidence in the cyber-crime investigation process, to design secured systems and software.  -->
 
-I am a Ph.D. student in the research group [**DistriNet**](https://distrinet.cs.kuleuven.be/) at the Computer Science department of the **Katholieke Universiteit Leuven (KU Leuven)**, under the supervision of [**Prof. Wouter Joosen**](https://distrinet.cs.kuleuven.be/people/WouterJoosen) and [**Prof. Koen Yskout**](https://www.distrinet.cs.kuleuven.be/people/KoenYskout).
+I am a Ph.D. researcher in the research group [**DistriNet**](https://distrinet.cs.kuleuven.be/) at the Computer Science department of **KU Leuven**, under the supervision of [**Prof. Wouter Joosen**](https://distrinet.cs.kuleuven.be/people/WouterJoosen) and [**Prof. Koen Yskout**](https://www.distrinet.cs.kuleuven.be/people/KoenYskout).
 My research focuses include various subjects in Computer and System Security, mostly in Software Security, Computer and Multimedia Forensics, Malware Analysis, Mobile Security, Privacy.
 I obtained a Diplôme d'ingénieur (Master of Science in Engineering) **Communication System Security** at [**EURECOM**](https://www.eurecom.fr/en) and [**Télécom Paris**](https://www.telecom-paris.fr/en/home) in France. My Master's thesis is about Memory Forensics, under the supervision of [**Prof. Davide Balzarotti**](http://s3.eurecom.fr/~balzarot/).
 I am the founder of [**Computer Security Club**](https://www.facebook.com/hcmus.compsec.club) at University of Science, VNU-HCM. I sometimes play CTF with the codename **pakkunandy**, and I also host HCMUS-CTF every year.
@@ -36,7 +36,8 @@ My research style is interdisciplinary in general. I am leveraging many techniqu
 
 # Professional Activities
 * I am a member of the Workshop Program Chair of [SCID](https://www.scid.tech/) @ Asia CCS 2024.
-* I am a PC member of ICMR 2024, SoICT 2024.
+* I am a organizing member of [Grand Challenge on Detecting Cheapfakes](https://detecting-cheapfakes.github.io/icmr-2024.html) @ ICMR 2024.
+* I am a PC member of ICMR 2024, SoICT 2023.
 * I am a web chair of MMM 2022.
 * I am a reviewer at MMM 2022, MAPR 2023.
 
@@ -61,6 +62,7 @@ Lecturer and Teaching Assistant at the Faculty of Information Technology in VNUH
 
 I am a founder and manager of the [Computer Security Club - HCMUS](https://www.facebook.com/hcmus.compsec.club)
 # Academic Awards and Prizes, Certification
+* Best paper award at QRS 2023.
 * The Oustanding Young Lecturer, VNUHCM-University of Science.
 * Computer Hacking Forensic Investigator-CHFI certificate by EC-Council 
 * Eiffel Excellent Scholarship for Engineering Students.
