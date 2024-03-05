@@ -37,7 +37,7 @@ My research style is interdisciplinary in general. I am leveraging many techniqu
 # Professional Activities
 * I am a member of the Workshop Program Chair of [SCID](https://www.scid.tech/) @ Asia CCS 2024.
 * I am an organizing member of [Grand Challenge on Detecting Cheapfakes](https://detecting-cheapfakes.github.io/icmr-2024.html) @ [ICMR 2024](https://icmr2024.org/).
-* I am a PC member of [SecDev 2024](https://secdev.ieee.org/2024/home), [ICMR 2024](https://icmr2024.org/), [SoICT 2023](https://soict.org/2023/).
+* I am a PC member of [SecDev 2024](https://secdev.ieee.org/2024/home), [ICMR 2024](https://icmr2024.org/), [MAPR 2024](https://mapr.uit.edu.vn/), [SoICT 2023](https://soict.org/2023/).
 * I am a web chair of [MMM 2023](https://www.mmm2023.no/organisation).
 * I am a reviewer at [MMM 2023](https://www.mmm2023.no/), [MAPR 2023](https://mapr.uit.edu.vn/2023/).
 
