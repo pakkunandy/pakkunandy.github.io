@@ -18,6 +18,7 @@ I am currently involved in memory forensics research with Prof. [Davide Balzarot
 
 # Contact Information
 * **Email**   : anh-duy.tran (at) kuleuven (dot) be
+* **Google Scholar** : [Anh-Duy Tran](https://scholar.google.com/citations?user=LoWFIzIAAAAJ&hl=en)
 * **Resume**  : [PDF](./assets/pdf/Anh-Duy-Tran-CV.pdf) (please email me for full version)
 * **Twitter** : [@pakkunandy](https://twitter.com/pakkunandy)
 * **Linkedin**: [Anh Duy TRAN](https://www.linkedin.com/in/anh-duy-tran/)
