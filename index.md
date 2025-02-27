@@ -45,7 +45,7 @@ My research style is interdisciplinary in general. I am leveraging many techniqu
 * I am a reviewer at [MMM 2023](https://www.mmm2023.no/), [MAPR 2023](https://mapr.uit.edu.vn/2023/).
 
 # Teaching
-Teaching assistant at imec-DistriNet, KU Leuven
+Teaching assistant at DistriNet, KU Leuven
 * Software Architecture
 
 Lecturer and Teaching Assistant at the Faculty of Information Technology in VNUHCM-University of Science
