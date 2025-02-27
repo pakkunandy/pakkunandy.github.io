@@ -36,7 +36,7 @@ My research interests include
 My research style is interdisciplinary in general. I am leveraging many techniques and knowledge from many domains to tackle real-world security-related problems and design secure systems. I am currently involved in [Multimedia Verification](https://github.com/fotoverifier/fotoverifier) projects with [Prof. Dang-Nguyen Duc-Tien](https://dnductien.github.io/). 
 
 # Professional Activities
-* I am a member of the Workshop Program Chair of [SCID](https://www.scid.tech/) @ Asia CCS 2024.
+* I am a member of the Workshop Program Chair of [SCID](https://www.scid.tech/) @ Asia CCS 2024 and 2025.
 * I am an organizing member of [Grand Challenge on Detecting Cheapfakes](https://detecting-cheapfakes.github.io/icmr-2024.html) @ [ICMR 2024](https://icmr2024.org/).
 * I am a PC member of SecDev 2025, ICMR 2025, [SecDev 2024](https://secdev.ieee.org/2024/home), [ICMR 2024](https://icmr2024.org/), [MAPR 2024](https://mapr.uit.edu.vn/), [SoICT 2023](https://soict.org/2023/).
 * I am a reviewer of journals: [JISA](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications)
