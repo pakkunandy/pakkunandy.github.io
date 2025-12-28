@@ -38,9 +38,18 @@ My research style is interdisciplinary in general. I am leveraging many techniqu
 # Professional Activities
 * I am a member of the Workshop Program Chair of [SCID](https://www.scid.tech/) @ Asia CCS 2024 and 2025.
 * I am an organizing member of [Grand Challenge on Detecting Cheapfakes](https://detecting-cheapfakes.github.io/icmr-2024.html) @ [ICMR 2024](https://icmr2024.org/).
-* I am a PC member of SecDev 2025, ICMR 2025, [SecDev 2024](https://secdev.ieee.org/2024/home), [ICMR 2024](https://icmr2024.org/), [MAPR 2024](https://mapr.uit.edu.vn/), [SoICT 2023](https://soict.org/2023/).
-* I am a reviewer of journals: [JISA](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications)
-* I am an AEC member of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/), [ISSTA 2024](https://2024.issta.org/committee/issta-2024-artifact-evaluation-artifact-evaluation-committee).
+* I am a PC member of:
+  * SecDev [2025](https://secdev.ieee.org/2025/program-committee/), [2024](https://secdev.ieee.org/2024/home)
+  * ICMR [2026](https://icmr2026.org/), 2025, [2024](https://icmr2024.org/)
+  * MAPR 2025, [2024](https://mapr.uit.edu.vn/)
+  * SoICT 2025, [2024](https://soict.org/2024/), [2023](https://soict.org/2023/)
+* I am a reviewer of journals:
+  * [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications)
+  * [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650)
+  * [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology)
+* I am an AEC member of:
+  * ACM CCS [2025](https://www.sigsac.org/ccs/CCS2025/artifact-evaluation-committee/), [2024](https://www.sigsac.org/ccs/CCS2024/)
+  * ISSTA [2025](https://conf.researchr.org/committee/issta-2025/issta-2025-artifacts-artifacts-committee), [2024](https://2024.issta.org/committee/issta-2024-artifact-evaluation-artifact-evaluation-committee)
 * I am a web chair of [MMM 2023](https://www.mmm2023.no/organisation).
 * I am a reviewer at [MMM 2023](https://www.mmm2023.no/), [MAPR 2023](https://mapr.uit.edu.vn/2023/).
 
@@ -65,6 +74,7 @@ Lecturer and Teaching Assistant at the Faculty of Information Technology in VNUH
 
 I am a founder and manager of the [Computer Security Club - HCMUS](https://www.facebook.com/hcmus.compsec.club)
 # Academic Awards and Prizes, Certification
+* MV 2025 Winner Award ACM MM25 - Grand Challenge on Multimedia Verification (MV 2025)
 * Best paper award at QRS 2023.
 * The Oustanding Young Lecturer, VNUHCM-University of Science.
 * Computer Hacking Forensic Investigator-CHFI certificate by EC-Council 
